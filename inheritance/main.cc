@@ -12,6 +12,8 @@ int main() {
     sf_car.paidFare();
     cout << sf_car.getTotalFares() << endl;
 
+    sf_car.paidFare();
+    cout << sf_car.getTotalFares() << endl;
 
     return 0;
 
